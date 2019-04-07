@@ -4,6 +4,7 @@ screenshots/
 
 # Files
 README.txt
+.gitignore
 
 # Compiled source
 *.o
