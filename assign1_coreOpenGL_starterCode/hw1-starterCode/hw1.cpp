@@ -164,11 +164,13 @@ void displayFunc()
 void idleFunc()
 {
   // take 300 screenshots
+  /*
   if (frame < 300)
   {
     saveScreenshot(("screenshots/screenshot" + string(3 - to_string(frame).length(), '0') + to_string(frame) + ".jpg").c_str());
     frame++;
   }
+  */
 
   // make the screen update 
   glutPostRedisplay();
