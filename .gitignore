@@ -1,9 +1,10 @@
-# Don't track content of these folders #
-assign1_coreOpenGL_starterCode/milestone/
+# Folders
+milestone/
+screenshots/
 
-# Don't track these files #
-assign1_coreOpenGL_starterCode/hw1-starterCode/README.txt
+# Files
+README.txt
 
-# Compiled source #
-assign1_coreOpenGL_starterCode/hw1-starterCode/*.o
-assign1_coreOpenGL_starterCode/hw1-starterCode/*.cpp~
+# Compiled source
+*.o
+*.cpp~
