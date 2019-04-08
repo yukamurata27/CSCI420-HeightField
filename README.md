@@ -23,6 +23,8 @@ make
 ./hw1 heightmap/HEIGHT_FIELD_FILE_NAME.jpg
 ```
 
+### Important Note
+#### Please do not copy or use the code for yourself wiht my permission.
 
 ## Functionalities
 ### 1. Interaction
