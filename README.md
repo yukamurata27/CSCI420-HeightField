@@ -24,7 +24,7 @@ make
 ```
 
 ### Important Note
-#### Please do not copy or use the code for yourself wiht my permission.
+#### Please do not copy or use the code for yourself without my permission.
 
 ## Functionalities
 ### 1. Interaction
